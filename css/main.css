@@ -565,7 +565,7 @@ body {
   position: absolute;
   width: 528px;
   height: 581px;
-  background: #FFFFFF;
+  background: #ffffff;
   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
   border-radius: 4px;
   top: 50%;
@@ -587,7 +587,7 @@ body {
   line-height: 1.15;
   text-align: center;
   letter-spacing: 0.03em;
-  color: var(--main-text);
+  color: #212121;
   margin-bottom: 12px;
 }
 
@@ -602,7 +602,7 @@ body {
   font-size: 12px;
   line-height: 1.16;
   letter-spacing: 0.01em;
-  color: var(--secondary-text);
+  color: #757575;
   display: block;
 }
 
@@ -656,7 +656,7 @@ body {
   font-size: 12px;
   line-height: 1.16;
   letter-spacing: 0.01em;
-  color: var(--main-text);
+  color: #212121;
   padding: 16px 12px;
   margin-top: 4px;
   border: 1px solid rgba(33, 33, 33, 0.2);
@@ -891,7 +891,7 @@ body {
   position: absolute;
   width: 528px;
   height: 581px;
-  background: #FFFFFF;
+  background: #ffffff;
   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
   border-radius: 4px;
   top: 50%;
@@ -913,7 +913,7 @@ body {
   line-height: 1.15;
   text-align: center;
   letter-spacing: 0.03em;
-  color: var(--main-text);
+  color: #212121;
   margin-bottom: 12px;
 }
 
@@ -928,7 +928,7 @@ body {
   font-size: 12px;
   line-height: 1.16;
   letter-spacing: 0.01em;
-  color: var(--secondary-text);
+  color: #757575;
   display: block;
 }
 
@@ -982,7 +982,7 @@ body {
   font-size: 12px;
   line-height: 1.16;
   letter-spacing: 0.01em;
-  color: var(--main-text);
+  color: #212121;
   padding: 16px 12px;
   margin-top: 4px;
   border: 1px solid rgba(33, 33, 33, 0.2);
