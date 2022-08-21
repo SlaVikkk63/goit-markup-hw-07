@@ -1,13 +1,13 @@
-.section-benefits{
+.benefits{
     padding-top: 94px; ;
 }
 
-.container-benefits{
+.benefits__container{
     display: flex;
     gap: 30px;
 }
 
-.benefits-img{
+.benefits__img{
     width: 270px;
     height: 120px;
     background-color: #F5F4FA;
@@ -18,14 +18,14 @@
     justify-content: center;
 }
 
-.section-name{
+.benefits__name{
     font-weight: 700;
     font-size: 14px;
     line-height: 1.14;
     margin-bottom: 10px;
 }
 
-.section-title{
+.benefits__title{
     color: var(--secondary-text);
     font-weight: 400;
     font-size: 14px;

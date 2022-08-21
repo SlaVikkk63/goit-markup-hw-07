@@ -1,9 +1,9 @@
-.section-clients{
+.clients{
     padding-top: 94px;
     padding-bottom: 94px;
 }
 
-.client-title{
+.client__title{
     text-align: center;
     font-weight: 700;
     font-size: 36px;
@@ -13,7 +13,7 @@
 }
 
 
-.client-post-title{
+.client__post-title{
     display: flex;
     gap: 30px;
     justify-content: center; 
@@ -21,7 +21,7 @@
     
 }
 
-.client-img{
+.client__img{
     fill: #AFB1B8;
     width: 170px;
     height: 92px;
